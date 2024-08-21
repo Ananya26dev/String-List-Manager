@@ -1,0 +1,3 @@
+# String List Manager with Modal Preview
+
+Create a functional component that renders a text input field and displays a list of the strings that the user has entered below it. Each string in the list should be displayed wholly if it has fewer than 6 characters. If not, it should be displayed as the first five characters of the string followed by ellipses. When the user clicks on a string from the list, a modal should popup containing the complete text of the string. The modal should be centered on the page, and it should block the input field. The modal should close when the user clicks outside of it.
